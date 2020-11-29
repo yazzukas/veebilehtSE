@@ -1,0 +1,41 @@
+ h1 {
+    text-align: left;
+    font-size: 50px;
+}
+
+p {
+	font-size: 20px;
+	font-family: Times New Roman;
+}
+
+ul {
+	font-size: 20px;
+	font-family: Times New Roman;
+}
+
+.text {
+	float: left;
+	width: 900px;
+}
+
+.images {
+	float: right;
+	margin-top: 100px;
+	width: 400px;
+}
+
+#image1 {
+	display: block;
+	text-align: center;
+
+}
+
+#image2 {
+	display: block;
+	text-align: center;
+
+}
+
+li {
+	list-style-image: url("../loendi_ikoon.png");
+}
