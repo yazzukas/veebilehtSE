@@ -15,14 +15,18 @@ p {
 .images {
 	float: right;
 	margin-top: 50px;
+	width: 35%;
+	text-align: center;
 }
 
 #image1 {
 	display: block;
+	width: 35%;
 	text-align: center;
 }
 
 #image2 {
 	display: block;
+	width: 35%;
 	text-align: center;
 }
