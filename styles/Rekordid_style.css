@@ -1,0 +1,29 @@
+h1 {
+    text-align: left;
+    font-size: 50px;
+}
+
+p {
+	font-size: 20px;
+}
+
+.text {
+	float: left;
+	width: 800px;
+}
+
+.images {
+	float: right;
+	margin-top: 150px;
+	width: 350px;
+}
+
+#image1 {
+	display: block;
+	text-align: center;
+}
+
+#image2 {
+	display: block;
+	text-align: center;
+}
