@@ -11,6 +11,11 @@ ul {
 	font-size: 20px;
 }
 
+br {
+   display: block;
+   margin: 10px 0;
+}
+
 .text {
 	float: left;
 	width: 800px;
