@@ -16,6 +16,10 @@ br {
    margin: 10px 0;
 }
 
+li {
+	list-style-image: url("../loendi_ikoon.png");
+}
+
 .text {
 	float: left;
 	width: 800px;
