@@ -29,3 +29,8 @@ p {
 	text-align: center;
 	width: 35%;
 }
+
+img {
+  max-width: 50%;
+  height: auto;
+}
