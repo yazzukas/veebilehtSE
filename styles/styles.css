@@ -34,3 +34,9 @@
     margin:0;
     background-image: url("../cool-background.png");
   }
+
+  .dark-mode {
+    background-image: none;
+    background-color: #696969;
+    color: white;
+  }
