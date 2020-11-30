@@ -1,5 +1,36 @@
 
 .game {
+    margin-top: 100px;
+    float: right;
+    margin-right: 5%;
+    text-align: center;
+}
+
+.game iframe{
+    width: 40vw;
+}
+
+
+.text {
+	margin-top: 50px;
+	float: left;
+}
+
+.text h1 {
+    width: 40vw;
+    text-align: center;
+    font-size: 3vw;
+    margin-left: 5vw;
+}
+
+.text p {
+    width: 40vw;
+    text-align: center;
+    font-size: 2vw;
+    margin-left: 5vw;
+}
+/*
+.game {
     height: 800px;
     width: 800px;
     text-align: center;
@@ -11,17 +42,11 @@
     margin-left: -20px;
 }
 
-.text {
-	margin-top: 50px;
-	float: left;
-	width: 900px;
-}
-
 .text h1 {
     height: 200px;
-    width: 600px;
+    width: 500px;
     text-align: center;
-    font-size: 70px;
+    font-size: 50px;
 
     position: fixed;
     top: 15%;
@@ -32,13 +57,13 @@
 
 .text p {
     height: 200px;
-    width: 600px;
+    width: 500px;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
 
     position: fixed;
     top: 30%;
     left: 10%;
     margin-top: -20px;
     margin-left: -20px;
-}
+}'/
