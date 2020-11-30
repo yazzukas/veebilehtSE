@@ -12,6 +12,7 @@ ul {
 }
 
 .text {
+	margin-top: 50px;
 	float: left;
 	width: 800px;
 }

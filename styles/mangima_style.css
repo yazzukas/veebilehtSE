@@ -11,6 +11,11 @@
     margin-left: -20px;
 }
 
+.text {
+	margin-top: 50px;
+	float: left;
+	width: 900px;
+}
 
 .text h1 {
     height: 200px;
